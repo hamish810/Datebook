@@ -1,5 +1,8 @@
 # Datebook
 Support for Datebook
+
+Support contact: hamish.lewis810@gmail.com
+
 Overview
 AI Note is a powerful task and note management application that combines the convenience of natural language input with AI-powered organization. The app helps you manage your daily tasks and notes efficiently while maintaining a clean, intuitive interface.
 Key Features
